@@ -188,7 +188,7 @@ source ${SHELL_SCRIPT_PATH}/paasta/deploy-iaas-create.sh
 
 cd ${CF_DEPLOYMENT_PATH}
 cd ..
-mv cf-deployment paasta-deployment
+mv cf-deployment paasta
 
 echo "CF DEPLOYMENT END!!!!!!!!!!!!!!!!!!"
 
